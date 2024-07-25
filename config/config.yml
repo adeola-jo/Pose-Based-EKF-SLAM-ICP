@@ -1,0 +1,4 @@
+overlap_threshold: 60
+
+
+registration_threshold: 0.1
