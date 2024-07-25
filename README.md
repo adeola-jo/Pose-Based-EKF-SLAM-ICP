@@ -1,4 +1,4 @@
-# Hands_On_Localization
+# Pose-Based EKF SLAM using ICP Scan-Matching on a Kobuki Turtlebot
 This package houses all the packages, scripts, etc., for the Hands-On Localization project on 
 Pose-Based EKF SLAM using ICP Scan-Matching
 
